@@ -1,0 +1,9 @@
+Warning[2056] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\lcd\lcd.c 104 : expression is always true
+Warning[2056] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\lcd\lcd.c 118 : expression is always true
+Warning[2056] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\lcd\lcd.c 132 : expression is always true
+Warning[2056] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\lcd\lcd.c 146 : expression is always true
+Warning[2056] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\lcd\lcd.c 220 : expression is always true
+Warning[2056] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\lcd\lcd.c 237 : expression is always true
+Warning[2066] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\lcd\lcd.c 321 : type qualifier mismatch in assignment
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\lcd\lcd.c 464 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\lcd\lcd.c 471 : suspicious pointer conversion

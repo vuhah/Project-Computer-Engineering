@@ -1,0 +1,91 @@
+Warning[2073] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 133 : null-terminated initializer string too long
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 195 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 200 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 204 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 207 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 208 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 209 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 212 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 228 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 229 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 232 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 233 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 234 : call of function without prototype
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 277 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 278 : suspicious pointer conversion
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 289 : call of function without prototype
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 295 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 320 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 343 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 366 : suspicious pointer conversion
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 388 : call of function without prototype
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 405 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 409 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 416 : suspicious pointer conversion
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 430 : call of function without prototype
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 433 : suspicious pointer conversion
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 434 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 435 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 436 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 437 : call of function without prototype
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 444 : suspicious pointer conversion
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 445 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 446 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 453 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 454 : call of function without prototype
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 460 : suspicious pointer conversion
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 463 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 464 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 465 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 466 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 475 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 476 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 484 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 485 : call of function without prototype
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 492 : suspicious pointer conversion
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 495 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 496 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 497 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 498 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 507 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 508 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 516 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 517 : call of function without prototype
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 524 : suspicious pointer conversion
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 536 : call of function without prototype
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 548 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 549 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 553 : suspicious pointer conversion
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 558 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 559 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 560 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 561 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 562 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 563 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 572 : call of function without prototype
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 577 : suspicious pointer conversion
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 580 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 581 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 585 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 586 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 591 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 592 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 603 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 604 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 613 : call of function without prototype
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 626 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 627 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 628 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 629 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 630 : suspicious pointer conversion
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 635 : call of function without prototype
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 664 : suspicious pointer conversion
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 665 : suspicious pointer conversion
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 666 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 670 : call of function without prototype
+Warning[2054] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 682 : suspicious pointer conversion
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 730 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 731 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 732 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 733 : call of function without prototype
+Warning[2058] D:\Hoc_tap_PC\DA_TKLL\Bai10_TRAFFIC_UART\main.c 791 : call of function without prototype
